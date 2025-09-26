@@ -1,5 +1,7 @@
 # 🦀 Rust LLM from Scratch
 
+#공부해서 추가할 것은.. muon optimizer(~sudoremove자료 참조) 이론 충분히 파보고, 구현해보면서 실제로 rust 활용가능한 수준으로 끌어올리기
+
 [![Rust](https://github.com/tekaratzas/RustGPT/actions/workflows/rust.yml/badge.svg)](https://github.com/tekaratzas/RustGPT/actions/workflows/rust.yml)
 
 https://github.com/user-attachments/assets/ec4a4100-b03a-4b3c-a7d6-806ea54ed4ed
